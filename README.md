@@ -44,5 +44,5 @@ The application can be found here: https://emmareimer.github.io/homework_week_1/
 
 The following images show the web application's appearance and functionality:
 
-![screenshot](./homework_week_1/screenshot_1.png)
-![screenshot](./homework_week_1/screenshot_2.png)
+![screenshot](./screenshot_1.png)
+![screenshot](./screenshot_2.png)
