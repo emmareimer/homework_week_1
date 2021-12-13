@@ -42,5 +42,7 @@ Information on the page includes search enginge optimization, online reputation 
 
 The application can be found here: https://emmareimer.github.io/homework_week_1/
 
-The following image shows the web application's appearance and functionality:
-(./homework_week_1/screenshot_1.png)
+The following images show the web application's appearance and functionality:
+
+![screenshot](./homework_week_1/screenshot_1.png)
+![screenshot](./homework_week_1/screenshot_2.png)
